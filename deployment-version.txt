@@ -1,0 +1,5 @@
+Chamomile Salon deployment marker
+
+This file intentionally changes whenever the production site needs a fresh Vercel build. It is harmless and contains no application logic.
+
+Deployment build: 2026-08-18-v1
